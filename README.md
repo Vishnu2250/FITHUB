@@ -23,11 +23,8 @@ We have used __Google AMD Instances__ to deploy our project.
 3. WEB: _HTML,CSS,JS_ 
 
 
-## Team Members  
-1. [Pranshu](https://github.com/Pranshu1sati/FitHub) (backend)          
-2. [Anshul](https://github.com/alwaysanshul/FitHub) (backend)          
-3. [Ishu](https://github.com/ishuvermaa/FitHub-1) (frontend)      
-4. Anshika (frontend)
+Done by
+Vishnu Vardhan
 
 
 
